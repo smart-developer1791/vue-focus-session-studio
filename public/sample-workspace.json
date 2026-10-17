@@ -1,0 +1,32 @@
+{
+  "format": "FS/1",
+  "title": "A little room to focus",
+  "work": 25,
+  "rest": 5,
+  "longRest": 15,
+  "cycles": 4,
+  "longEvery": 2,
+  "tasks": [
+    {
+      "id": "task-draft",
+      "title": "Give the first draft a little shape",
+      "done": false
+    },
+    {
+      "id": "task-details",
+      "title": "Finish one small, useful detail",
+      "done": false
+    },
+    {
+      "id": "task-read",
+      "title": "Read it once with fresh eyes",
+      "done": false
+    }
+  ],
+  "journal": [],
+  "provenance": {
+    "project": "vue-focus-session-studio",
+    "author": "CodeSculptor",
+    "marker": "FS-F2414F0B"
+  }
+}
